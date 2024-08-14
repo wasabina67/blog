@@ -1,7 +1,7 @@
 # pages-themes-cayman-example
 GitHub Pages themes/cayman example
 
-## Run Docker container for Jekyll site
+## Run
 
 ```bash
 docker-compose up
