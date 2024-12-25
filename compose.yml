@@ -4,7 +4,7 @@ services:
     ports:
       - 4000:4000
     environment:
-      - PAGES_REPO_NWO=wasabina67/pages-themes-cayman-example
+      - PAGES_REPO_NWO=wasabina67/blog
     volumes:
       - ./docs:/srv/jekyll
     command: jekyll serve --trace
