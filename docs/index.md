@@ -1,3 +1,3 @@
 Hello, world!
 
-[first](posts/1.md)
+- [first](posts/1.md)
