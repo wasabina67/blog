@@ -59,5 +59,3 @@
 
 #### 2024/12
 - [『キャッシュフローが良い』とは、どのような状態か？](posts/202412/1.md)
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
