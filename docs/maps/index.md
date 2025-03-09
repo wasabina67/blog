@@ -24,6 +24,8 @@
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d25926.235123512335!2d139.7210093!3d35.6824337!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188c7f4017cef7%3A0x8227a9297cee99da!2zV09SS0FIT0xJQ--8iOWujOWFqOS6iOe0hOWItu-8iQ!5e0!3m2!1sja!2sjp!4v1741512993344!5m2!1sja!2sjp" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d25926.235123512335!2d139.7210093!3d35.6824337!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188b9b26515341%3A0x4fde96d9d827449f!2zVEhFIEdBVEUgSE9URUwg5p2x5LqsIGJ5IEhVTElD!5e0!3m2!1sja!2sjp!4v1741513053946!5m2!1sja!2sjp" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 ### 千葉県
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3233.355440295685!2d139.9676449!3d35.8648055!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60189ce433a38251%3A0x4c3e67b5b43061d4!2z44K244O744Kv44Os44K544OI44Ob44OG44Or5p-P!5e0!3m2!1sja!2sjp!4v1741511919164!5m2!1sja!2sjp" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
