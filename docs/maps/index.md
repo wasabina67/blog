@@ -20,6 +20,8 @@
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d103246.73064397303!2d138.1423346!3d36.0334698!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601c46128763906b%3A0x65beee8599ec3f7d!2z5ZSQ5rKi6Ymx5rOJIOWFq-ODtuWys-enmOa5r-OBruWuvw!5e0!3m2!1sja!2sjp!4v1741513130631!5m2!1sja!2sjp" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3286255.929956689!2d133.58772072500005!3d36.45189349999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601d77f4764af385%3A0x13ef733012cb6c55!2z6bq65YemIOWtkOOAhS1uZSBuZS0!5e0!3m2!1sja!2sjp!4v1741516598032!5m2!1sja!2sjp" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 ### 東京都
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d25922.601804217455!2d139.6653129!3d35.6936136!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188def35a81a1d%3A0x9114a57f64cc74c0!2zQUZVUknovpvntIUg5paw5a6_44K144OW44OK44O844OJ!5e0!3m2!1sja!2sjp!4v1741512936463!5m2!1sja!2sjp" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
