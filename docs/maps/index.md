@@ -10,6 +10,8 @@
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d103262.20640110463!2d138.1807725!3d36.0216621!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601c4f6f7c900a4d%3A0x57a409f66b56498!2z5b6h5bCE6bm_5rGg!5e0!3m2!1sja!2sjp!4v1741512157565!5m2!1sja!2sjp" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d103227.14194388976!2d138.1076414!3d36.0484108!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601c55b47240b3f9%3A0xdb11ebaaf3ce3f27!2z44Gd44Gw44GU44GT44KN5bCP5Z2C!5e0!3m2!1sja!2sjp!4v1741512349995!5m2!1sja!2sjp" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 ### 新潟県
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3185.1526163039825!2d138.26881530000003!3d37.0300073!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5ff672b9d1a462cd%3A0x10d198b4999971f7!2z44iy44GL44KT44Ga44KK!5e0!3m2!1sja!2sjp!4v1741511783489!5m2!1sja!2sjp" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
