@@ -25,3 +25,9 @@
 ### 北海道
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2916.577049011453!2d141.39685269999998!3d43.0292889!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5f0b2a56b6c55555%3A0xe504b6939c1df397!2z5pyI5a-S44GC44KT44Gx44KT5pys6IiXIOaciOWvkue3j-acrOW6lw!5e0!3m2!1sja!2sjp!4v1741512232191!5m2!1sja!2sjp" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2941.7144444010173!2d141.1486602!3d42.4976231!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5f7566c28ae3ffff%3A0xc7b5b02adcffbecc!2z55m75Yil5Zyw542E6LC3!5e0!3m2!1sja!2sjp!4v1741512504482!5m2!1sja!2sjp" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d745568.6192991507!2d140.8173976!3d43.1175971!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5f751b6fd9fd46db%3A0x2cd0ee2c11c7901!2z54Kt54S854mb44Gf44KTIOi1pOWFteihm-WIhuW6lw!5e0!3m2!1sja!2sjp!4v1741512531904!5m2!1sja!2sjp" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d745568.6192991507!2d140.8173976!3d43.1175971!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5f0c91fbcaa98681%3A0x21cc96346a61a566!2z5aa56IOM54mb5rip5rOJ44Oa44Oa44Or!5e0!3m2!1sja!2sjp!4v1741512556842!5m2!1sja!2sjp" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
