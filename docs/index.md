@@ -21,9 +21,9 @@
 -->
 
 #### 2025/7
-- [template](posts/202507/43.md)
-- [template](posts/202507/42.md)
-- [template](posts/202507/41.md)
+- [レピュテーションとは](posts/202507/43.md)
+- [バックポートとは](posts/202507/42.md)
+- [サンクコストとは](posts/202507/41.md)
 - [Monorepo, Polyrepoとは](posts/202507/40.md)
 - [アーリーアダプターとは](posts/202507/39.md)
 
