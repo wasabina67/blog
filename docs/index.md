@@ -18,7 +18,7 @@
 -->
 
 #### 2025/8
-- [aaa](posts/202508/49.md)
+- [Abuse行為とは](posts/202508/49.md)
 - [認知負荷理論とは](posts/202508/48.md)
 - [Accountabilityとは](posts/202508/47.md)
 - [QAとは](posts/202508/46.md)
