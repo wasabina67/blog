@@ -15,10 +15,10 @@
 <!--
 #### 2025/9
 - [aaa](posts/202509/50.md)
-- [aaa](posts/202509/49.md)
 -->
 
 #### 2025/8
+- [aaa](posts/202508/49.md)
 - [認知負荷理論とは](posts/202508/48.md)
 - [Accountabilityとは](posts/202508/47.md)
 - [QAとは](posts/202508/46.md)
