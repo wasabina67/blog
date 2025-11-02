@@ -38,6 +38,8 @@
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d103573.56217096157!2d140.1766503!3d35.783388!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60228b0fda80dd17%3A0xd3997cf5877a06a6!2z5bed6LGK5pys5bqX!5e0!3m2!1sja!2sjp!4v1741512744292!5m2!1sja!2sjp" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12960.219046845854!2d139.9847274!3d35.70027!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601880789ad48d2f%3A0xe2d36ae9eb120ac1!2z6bOl5LiA!5e0!3m2!1sja!2sjp!4v1762074859444!5m2!1sja!2sjp" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 ### 新潟県
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3185.1526163039825!2d138.26881530000003!3d37.0300073!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5ff672b9d1a462cd%3A0x10d198b4999971f7!2z44iy44GL44KT44Ga44KK!5e0!3m2!1sja!2sjp!4v1741511783489!5m2!1sja!2sjp" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -63,3 +65,4 @@
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d745568.6192991507!2d140.8173976!3d43.1175971!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5f7510eb8ef353a5%3A0x3868f1cabc435f70!2z5rW344Gu6aeF44G344KJ44Gj44Go44G_44Gq44Go5biC5aC0!5e0!3m2!1sja!2sjp!4v1741512674525!5m2!1sja!2sjp" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d745568.6192991507!2d140.8173976!3d43.1175971!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5f0ae1acdc42bf8f%3A0x1773dce5d372b1ca!2z5bCP5qi9IOWMl-OBruOBqeOCk-OBtuOCiuWxiyDmu53ms6Lpo5_loII!5e0!3m2!1sja!2sjp!4v1741512708901!5m2!1sja!2sjp" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
